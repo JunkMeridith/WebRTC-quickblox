@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuickBloxApplication</string>
+    <string name="title_activity_enter_room">Enter Room Activity</string>
+
+</resources>
